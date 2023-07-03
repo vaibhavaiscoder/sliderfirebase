@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "590770999452",
+    "firebase_url": "https://flutter-codes-default-rtdb.firebaseio.com",
+    "project_id": "flutter-codes",
+    "storage_bucket": "flutter-codes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590770999452:android:a9c8ae2804739365d0dd59",
+        "android_client_info": {
+          "package_name": "com.example.firebase_carousel_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590770999452-nu0c3i9c9phtuv61vim9nai7beqlkse1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALtoBmSf_Ma_4nMzWFkL3uWUQM7Lzu5iE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590770999452-nu0c3i9c9phtuv61vim9nai7beqlkse1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590770999452:android:f18cee9ffa05f269d0dd59",
+        "android_client_info": {
+          "package_name": "com.example.firebase_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590770999452-b6gec7t3dqn1ufb0piqakf6rjcilflts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_flutter",
+            "certificate_hash": "805c1f3a62f81a208496eed5b87eb91945ef09fe"
+          }
+        },
+        {
+          "client_id": "590770999452-nu0c3i9c9phtuv61vim9nai7beqlkse1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALtoBmSf_Ma_4nMzWFkL3uWUQM7Lzu5iE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590770999452-nu0c3i9c9phtuv61vim9nai7beqlkse1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590770999452:android:e217cc212de3eae9d0dd59",
+        "android_client_info": {
+          "package_name": "com.example.phone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590770999452-ibdnelebf4uf66gr64muda4rq0mf6rih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phone",
+            "certificate_hash": "805c1f3a62f81a208496eed5b87eb91945ef09fe"
+          }
+        },
+        {
+          "client_id": "590770999452-nu0c3i9c9phtuv61vim9nai7beqlkse1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALtoBmSf_Ma_4nMzWFkL3uWUQM7Lzu5iE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590770999452-nu0c3i9c9phtuv61vim9nai7beqlkse1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590770999452:android:eebdb7401f62295fd0dd59",
+        "android_client_info": {
+          "package_name": "com.example.sliderfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590770999452-nu0c3i9c9phtuv61vim9nai7beqlkse1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALtoBmSf_Ma_4nMzWFkL3uWUQM7Lzu5iE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590770999452-nu0c3i9c9phtuv61vim9nai7beqlkse1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
